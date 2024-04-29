@@ -1,1 +1,2 @@
-# diabetes_prediction
+- heatmap
+- correlation matrix
